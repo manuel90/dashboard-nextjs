@@ -2,10 +2,15 @@
 
 ## Quick start
 
-- Clone the repo: `https://github.com/mdsEu/Manuel-test.git`.
+- Clone the repo: `https://github.com/manuel90/dashboard-nextjs.git`.
 - `npm install`
 - `npm run start`
 - Go to `http://localhost:3000`
+
+
+### Demo
+
+- https://dashboardnextjs.mlara.dev
 
 ## File Structure
 
