@@ -3,7 +3,7 @@
 ## Quick start
 
 - Clone the repo: `https://github.com/manuel90/dashboard-nextjs.git`.
-- `npm install`
+- `npm install` (Using Node Version: 14.10.1)
 - `npm run start`
 - Go to `http://localhost:3000`
 
