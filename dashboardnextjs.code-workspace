@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.foldingStrategy": "indentation",
+		"editor.formatOnPaste": true,
+		"editor.renderWhitespace": "boundary",
+		"editor.tabSize": 2,
+		"files.insertFinalNewline": true,
+		"files.trimTrailingWhitespace": true,
+		"git.ignoreLimitWarning": true,
+		"editor.fontSize": 18,
+        "editor.wordWrap": "on",
+        "editor.detectIndentation": false
+	}
+}
+
